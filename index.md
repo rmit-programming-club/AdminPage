@@ -18,6 +18,7 @@
 - Plan and market Ludum Dare.
 - Plan out Screeps related events, content and promotion
 - Plan out Competitive Programming events, content and promotion
+- Create terms and conditions for coming to talk on a podcast
 
 ### Thomas Frantz
 - Build a plan or allocate building a plan for the Trivia Night
