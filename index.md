@@ -1,6 +1,5 @@
 # Programming Club Admin and Events page
 ## Upcoming Events
-- Programming Club Social 11am 16th of April
 - Hex Competition 17th of April 4:00pm to 6:00pm
 - Ludum Dare 18th of April 11am to 21st of April 11am
 - Trivia Night 22nd of April 5:30pm to 7:30pm
@@ -14,17 +13,13 @@
 ## Allocations
 ### Sam Nolan
 - Find more academics for Podcasting!
-- Plan and market Ludum Dare.
-- Plan out Screeps related events, content and promotion
+- Plan out Screeps related events, content and promotion **Looking for someone to help with this urgently**
 - Plan out Competitive Programming events, content and promotion
 - Create terms and conditions for coming to talk on a podcast
 
 ### Thomas Frantz
-- Build a plan or allocate building a plan for the Trivia Night
 
 ### Ewan Breakey
-- Build a plan for the Hex competition on the 17th
 
 ### Patrick Mifsud
-- Find people to do the banner for the Web and Git Workshop
 - Find people to do the banner for the Trivia Night
