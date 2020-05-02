@@ -1,4 +1,25 @@
 # Podcasts
+## Important dates
+ - Planning to get the first presentation on the 11th of May
+ - I've promised to get the first podcast recorded by the 13th of May.
+
+## First episode
+First episode will be with James Harland about Artificial Intelligence.
+
+1. Start with Introduction of people, including James Harland
+2. Something from IT news
+(Should be done in the first 5 minutes)
+3. Interview James Harland
+4. Wind down, upcoming club events and hackathons
+
+1. Introduction of James Harland, position at RMIT etc
+Questions:
+1. Where do you see AI going in the near future?
+2. What skills should students learn to work with AI? 
+3. What problems still need to be solved in preventing the robot uprising?
+4. What recent developments have pushed forward AI?
+Questions from Audience (last 7 minutes):
+
 Podcasts are an attempt to create audio content for students during COVID-19.
 
 The expression of interest form is [here](https://docs.google.com/forms/u/1/d/1h-prnx-BgPf_7FHcwRea3ktqTJK7leu3NoY7b3vDQqg/edit?usp=drive_web)

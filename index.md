@@ -1,4 +1,8 @@
 # Programming Club Admin and Events page
+Other pages:
+ - [Podcasts](./Podcasts.md)
+ - [Screeps](./Screeps.md)
+
 ## Upcoming Events
 - Hex Competition 17th of April 4:00pm to 6:00pm
 - Ludum Dare 18th of April 11am to 21st of April 11am
